@@ -1,0 +1,6 @@
+@DeveloperEnvironmentAssistant.Api_HostAddress = http://localhost:5090
+
+GET {{DeveloperEnvironmentAssistant.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
